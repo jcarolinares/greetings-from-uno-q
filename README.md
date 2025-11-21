@@ -2,6 +2,8 @@
 
 An app for Arduino UNO Q which uses face recognition models and a servo motor to greet people
 
+👉 Tutorial [here](https://projecthub.arduino.cc/leocavagnis/greetings-from-arduino-uno-q-6a403b).
+
 ![./assets/docs_assets/building.png](./assets/docs_assets/building.png)
 
 
