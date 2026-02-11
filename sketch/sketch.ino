@@ -27,6 +27,7 @@ const uint32_t idle_face[]{
 Servo servo;
 
 void setup() {
+  Serial.begin(115200);
   matrix.begin();
   pinMode(LED_BUILTIN, OUTPUT);
   servo.attach(servoPin);
